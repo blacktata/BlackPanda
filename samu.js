@@ -134,7 +134,7 @@ message: {
 "title": `🚫No se permiten las llamadas🚫`,
 "description": "",
 "currencyCode": "SYP",
-"priceAmount1000": "999999999999999999",
+"priceAmount1000": "No se permiten las llamadas",
 "retailerId": "",
 "productImageCount": 999
 },
